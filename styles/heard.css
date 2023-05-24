@@ -5,3 +5,5 @@
   display: inline-block;
 }
    <link rel="stylesheet" href="header.css">
+.container_botao:checked~.container_rotulu{
+  background:var(--azul-degrade);
