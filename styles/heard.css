@@ -7,3 +7,10 @@
    <link rel="stylesheet" href="header.css">
 .container_botao:checked~.container_rotulu{
   background:var(--azul-degrade);
+.cabeçalho{
+  background-color:var(--branco);
+  display:flex;
+  justify-content:space-between;
+  alingn-items:center;
+  position:relative;
+  }
