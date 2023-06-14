@@ -4,6 +4,8 @@
     ;
 }
 
->contato_titulo,
->contato_texto{
-  background:
+.contato_titulo,
+.contato_texto{
+  background:var(--azul)
+  -
+    
