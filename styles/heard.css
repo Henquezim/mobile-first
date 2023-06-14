@@ -23,3 +23,15 @@
   .container_imagem{
     padding:1em:
       {
+        
+  .lita-menu{
+    display:none;
+    position:absolute;
+    top:100%
+      width:60vw;
+    {
+      
+  .container_botao:checked~.lista-menu{
+    dispçay:block;
+      }
+          
