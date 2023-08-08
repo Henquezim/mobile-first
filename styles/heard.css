@@ -140,4 +140,30 @@ padding: 2em 1em;
 
 @media screen and (min-widht: 1728px) {
    ,container__link {
-     display: 
+     display:
+       }
+
+
+}
+
+@media creen and (min-width: 1728px) {
+  .container_link {
+    display: flex;
+    align-items: center;
+    text-decortion: none;
+    color: var(--preto);
+  }
+
+  .abeçalho {
+    padding: 0 2em;
+  }
+
+  .opições {
+    margin-right: auto;
+  }
+
+  .container_texto {
+    display: block;
+  }
+}
+       
